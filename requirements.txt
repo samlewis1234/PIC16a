@@ -1,0 +1,18 @@
+The packages used in this project are:
+
+
+numpy as np 
+
+plotly.express as px
+
+seaborn as sns
+
+matplotlib.pyplot as plt
+
+re
+
+string
+
+itertools
+
+pandas as pd
