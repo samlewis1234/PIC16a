@@ -38,9 +38,9 @@ To run this, the files containing the set of valid Wordle guesses and valid Word
 
 Scope and limitations, including ethical implications, accessibility concerns, and ideas for potential extensions.
 
-I think our biggest limitation by far was organization into a final, concise project. Since we worked in Google colab, I just shared a link to that instead of trying to convert it to something I could add to this git repository. I do not see any ethical concerns with our project given its subject. 
+Our plots provide some useful insight into Wordle. However, they do not provide any explicit insight as to which words are the best ones to use. There are no major ethical concerns with our project given its subject, though some people may argue analyzing the solution set is against the spirit of the game. 
 
--Sam
+
 
 
 License and terms of use (probably MIT license).
