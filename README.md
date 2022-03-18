@@ -25,8 +25,9 @@ The required python packages are:
 2) seaborn(https://repo.anaconda.com/pkgs/main/noarch/seaborn-0.11.2-pyhd3eb1b0_0.conda)
 3) matplotlib.pyplot(https://repo.anaconda.com/pkgs/main/win-64/matplotlib-base-3.4.3-py39h49ac443_0.conda)
 4) re(https://repo.anaconda.com/pkgs/main/win-64/regex-2021.8.3-py39h2bbff1b_0.conda) 
-5) string(built in), itertools(https://repo.anaconda.com/pkgs/main/noarch/more-itertools-8.10.0-pyhd3eb1b0_0.conda)
-6) pandas(https://repo.anaconda.com/pkgs/main/win-64/pandas-1.3.4-py39h6214cd6_0.conda).
+5) string(built in)
+6) itertools(https://repo.anaconda.com/pkgs/main/noarch/more-itertools-8.10.0-pyhd3eb1b0_0.conda)
+7) pandas(https://repo.anaconda.com/pkgs/main/win-64/pandas-1.3.4-py39h6214cd6_0.conda).
 
 
 
