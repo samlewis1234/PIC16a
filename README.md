@@ -16,7 +16,7 @@ Edan Gold
 Short description of the project:
 
 
-Collection of plots to help understand trends in the Wordle solution set
+We used the Wordle dataset to create a collection of plots to help understand trends in possible solution words. Some examples include: letter frequencies, letter frequencies by position, and most common 2 letter combinations.
 
 
 
