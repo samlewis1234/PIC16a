@@ -28,7 +28,7 @@ class dictToOrderedList(dict):
         self.reverse = reverse
         self.n = n
         
-    def plot_dict(self, num = 10, title = "Most common 2 letter combinations"):
+    def plot_dict(self, num = 10, title = " Most common 2 letter combinations"):
         '''
         Plots dictionary in specificed order
     
