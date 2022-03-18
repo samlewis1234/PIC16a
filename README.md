@@ -59,12 +59,15 @@ MIT License (in license file)
 
 
 References and acknowledgement:
+
 Thank you to Harlin, Vishnu, And Shruti for helping us develop our python skills.
 
 Where we got the data: https://www.kaggle.com/bcruise/wordle-valid-words
+
 The data is orginally from the wordle source code.
 
 Tutorial we used: https://www.kaggle.com/sophiefiola/analysis-of-the-wordle-solution-set
+
 3 Things That Differentiate our project from the tutorial:
 1) We created a dictionary that contained each two letter combination and their frequencies.
 2) We created a custom class that can sort dictionaries and plot its keys and values using a barplot.
